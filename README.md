@@ -20,6 +20,10 @@ Python
 CNN and MLP models that read handwritten town names in historical records from Ghana. 93% on the EMNIST Letters benchmark, about 80% on real archival samples. Presented at NCUR 2026.
 PyTorch, FastAPI, React
 
+**[Can We Trust Grammar-Free AI?](https://github.com/hannaberhanne/grammar-free-ai)**
+CSC 320 research with Jamil Velez and Wafae Benkassou on what we lose when formal grammar parsers are replaced by probabilistic language models. The pushdown automaton held 12/12 across nesting depths; the language model never rejected a single string.
+Python, NLTK
+
 **[ITSM Playbook](https://github.com/hannaberhanne/itsm-playbook)**
 Turns a service desk's ticket history into deterministic issue models, and the base for an AI call-guidance assistant I use on live support calls.
 Python
